@@ -1,7 +1,8 @@
 ---
 layout: default
+permalink:/FAQ/
 ---
-#**FAQ & Additional Websites**
+# FAQ & Additional Websites
  
 **Q:** My dog still smells. 
 **A:** Try using more shampoo.

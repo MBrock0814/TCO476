@@ -1,3 +1,6 @@
+---
+layout: default
+---
 #**Washing Your Dog**
 
 ###Steps

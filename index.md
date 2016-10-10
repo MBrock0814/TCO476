@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-#**Washing Your Dog**
+# Washing Your Dog
 
 ###Steps
 ###FAQ

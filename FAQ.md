@@ -1,4 +1,8 @@
-#**FAQ & Additional Websites**
+---
+layout: default
+permalink:/FAQ/
+---
+# FAQ & Additional Websites
  
 **Q:** My dog still smells. 
 **A:** Try using more shampoo.

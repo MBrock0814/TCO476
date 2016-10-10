@@ -1,5 +1,8 @@
-#**Washing Your Dog**
+---
+layout: default
+---
+# Washing Your Dog
 
-###Steps
-###FAQ
-###Additional Info
+### [Steps](/Steps/)
+### [FAQ](/FAQ/)
+### [Additional Info](/Additional Info/)

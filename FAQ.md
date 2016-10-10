@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink:/FAQ/
+permalink:/faq/
 ---
 # FAQ & Additional Websites
  

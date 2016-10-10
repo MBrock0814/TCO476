@@ -1,8 +1,11 @@
 ---
 layout: default
+permalink:
 ---
 # Washing Your Dog
 
-### [Steps](/Steps/)
-### [FAQ](/FAQ/)
+### [Steps](/steps/)
+
+### [FAQ](/faq/)
+
 ### [Additional Info](/Additional Info/)

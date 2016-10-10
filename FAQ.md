@@ -1,3 +1,6 @@
+---
+layout: default
+---
 #**FAQ & Additional Websites**
  
 **Q:** My dog still smells. 

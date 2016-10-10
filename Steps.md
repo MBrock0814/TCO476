@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink:/Steps/
+permalink:/steps/
 ---
 # Washing your Dog
 

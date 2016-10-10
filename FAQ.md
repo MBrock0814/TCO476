@@ -1,7 +1,8 @@
 ---
 layout: default
-permalink:/faq/
+permalink: /faq/
 ---
+
 # FAQ & Additional Websites
  
 **Q:** My dog still smells. 

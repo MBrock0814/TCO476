@@ -1,3 +1,6 @@
+---
+layout: default
+---
 #**Washing your Dog**
 
  First get the required items: dog shampoo, a dog, a tub, and a towel. 

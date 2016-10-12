@@ -7,10 +7,10 @@ permalink: /steps/
 
  First get the required items: 
  
- * dog shampoo, 
  * a dog
+ * dog shampoo 
  * a tub
- * a towel. 
+ * a towel
 * Optional: some dog treats. 
 
 1. First start the tub and fill with water, depending on the size of dog. Make sure the water is just up to the dog's body and the water is not too hot or too cold. Then, get your dog and put it into the water and make sure your dog's fur is completely wet. 

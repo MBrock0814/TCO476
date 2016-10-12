@@ -1,11 +1,17 @@
 ---
 layout: default
-permalink:/steps/
+permalink: /steps/
 ---
+
 # Washing your Dog
 
- First get the required items: dog shampoo, a dog, a tub, and a towel. 
-Optional: some dog treats. 
+ First get the required items: 
+ 
+ * dog shampoo, 
+ * a dog
+ * a tub
+ * a towel. 
+* Optional: some dog treats. 
 
 1. First start the tub and fill with water, depending on the size of dog. Make sure the water is just up to the dog's body and the water is not too hot or too cold. Then, get your dog and put it into the water and make sure your dog's fur is completely wet. 
 2. Then get the dog shampoo and put it on your dog. Rub the shampoo into your dog's fur and make sure you get every part of your dog to completely clean it. 

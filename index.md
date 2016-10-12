@@ -1,12 +1,9 @@
 ---
 layout: default
+title: Home
 permalink:
 ---
 
-### [Steps](/steps/)
-
-### [FAQ](/faq/)
-
-### [Additional Info](/Additional Info/)
+This site it here to help people learn how to wash their dogs. It also gives some additional information about dog shampoos and has FAQ as well.
 
 

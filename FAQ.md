@@ -3,7 +3,7 @@ layout: default
 permalink: /faq/
 ---
 
-# FAQ & Additional Websites
+# FAQ
  
 **Q:** My dog still smells. 
 

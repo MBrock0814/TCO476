@@ -3,7 +3,7 @@ layout: default
 permalink: /steps/
 ---
 
-# How to wash your Dog
+# How to Wash your Dog
 
  First get the required items: 
  

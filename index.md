@@ -2,7 +2,6 @@
 layout: default
 permalink:
 ---
-# Washing Your Dog
 
 ### [Steps](/steps/)
 

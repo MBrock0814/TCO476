@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Additional Info
 permalink: /Additional Info/
 ---
 

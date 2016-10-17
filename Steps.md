@@ -6,7 +6,7 @@ permalink: /steps/
 
 # Washing your Dog
 
- ![](images/dog2.JPG)
+ ![](images/dog2.jpg)
  
  First get the required items: 
  
